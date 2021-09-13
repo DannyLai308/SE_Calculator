@@ -5,8 +5,8 @@ S-Expression Caculator - a command line program that acts as a simple calculator
 
 For single numbers:
 
-[YOUR PATH]\Calc_DLai\Calc_DLai\bin\Debug\net5.0>Calc_DLai "123"
+[YOUR PATH]\Calc_DLai\bin\Debug\net5.0>Calc_DLai "123"
 
 For expressions:
 
-[YOUR PATH]\Calc_DLai\Calc_DLai\bin\Debug\net5.0>Calc_DLai "(add 1 2 3)"
+[YOUR PATH]\Calc_DLai\bin\Debug\net5.0>Calc_DLai "(add 1 2 3)"

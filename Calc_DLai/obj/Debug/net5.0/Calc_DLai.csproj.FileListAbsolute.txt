@@ -1,0 +1,16 @@
+D:\Calc_DLai\Calc_DLai\bin\Debug\net5.0\Calc_DLai.exe
+D:\Calc_DLai\Calc_DLai\bin\Debug\net5.0\Calc_DLai.deps.json
+D:\Calc_DLai\Calc_DLai\bin\Debug\net5.0\Calc_DLai.runtimeconfig.json
+D:\Calc_DLai\Calc_DLai\bin\Debug\net5.0\Calc_DLai.runtimeconfig.dev.json
+D:\Calc_DLai\Calc_DLai\bin\Debug\net5.0\Calc_DLai.dll
+D:\Calc_DLai\Calc_DLai\bin\Debug\net5.0\ref\Calc_DLai.dll
+D:\Calc_DLai\Calc_DLai\bin\Debug\net5.0\Calc_DLai.pdb
+D:\Calc_DLai\Calc_DLai\obj\Debug\net5.0\Calc_DLai.csprojAssemblyReference.cache
+D:\Calc_DLai\Calc_DLai\obj\Debug\net5.0\Calc_DLai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calc_DLai\Calc_DLai\obj\Debug\net5.0\Calc_DLai.AssemblyInfoInputs.cache
+D:\Calc_DLai\Calc_DLai\obj\Debug\net5.0\Calc_DLai.AssemblyInfo.cs
+D:\Calc_DLai\Calc_DLai\obj\Debug\net5.0\Calc_DLai.csproj.CoreCompileInputs.cache
+D:\Calc_DLai\Calc_DLai\obj\Debug\net5.0\Calc_DLai.dll
+D:\Calc_DLai\Calc_DLai\obj\Debug\net5.0\ref\Calc_DLai.dll
+D:\Calc_DLai\Calc_DLai\obj\Debug\net5.0\Calc_DLai.pdb
+D:\Calc_DLai\Calc_DLai\obj\Debug\net5.0\Calc_DLai.genruntimeconfig.cache
